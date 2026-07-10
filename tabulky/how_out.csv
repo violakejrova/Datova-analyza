@@ -1,0 +1,40 @@
+"animal_type","outcome_type","count"
+"Dog","Adoption",33222
+"Cat","Adoption",21391
+"Cat","Transfer",20273
+"Dog","Return to Owner",19225
+"Dog","Transfer",15382
+"Other","Euthanasia",4522
+"Cat","Return to Owner",2209
+"Cat","Euthanasia",1943
+"Dog","Euthanasia",1797
+"Other","Transfer",881
+"Cat","Died",689
+"Dog","Rto-Adopt",554
+"Other","Adoption",521
+"Other","Disposal",428
+"Dog","Died",257
+"Bird","Adoption",205
+"Other","Died",190
+"Bird","Transfer",171
+"Cat","Rto-Adopt",143
+"Bird","Euthanasia",118
+"Cat","Disposal",76
+"Other","Return to Owner",46
+"Dog","Disposal",36
+"Cat","Missing",34
+"Bird","Return to Owner",33
+"Dog","Missing",30
+"Bird","Disposal",28
+"Bird","Died",19
+"Bird","Relocate",10
+"Other","Relocate",10
+"Livestock","Adoption",8
+"Livestock","Transfer",6
+"Other","Missing",4
+"Livestock","Return to Owner",4
+"Cat","Relocate",2
+"Bird","Missing",1
+"Other","Rto-Adopt",1
+"Livestock","Died",1
+"Livestock","Euthanasia",1

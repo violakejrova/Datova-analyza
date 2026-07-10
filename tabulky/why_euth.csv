@@ -1,0 +1,52 @@
+"animal_type","outcome_type","outcome_subtype","pocet_pripadu"
+"Bird","Euthanasia","Suffering",101
+"Bird","Euthanasia","Medical",11
+"Bird","Died","In Kennel",10
+"Bird","Died",NULL,5
+"Bird","Euthanasia",NULL,4
+"Bird","Died","Enroute",2
+"Bird","Died","In Foster",2
+"Bird","Euthanasia","Underage",1
+"Bird","Euthanasia","At Vet",1
+"Cat","Euthanasia","Suffering",1666
+"Cat","Died","In Kennel",351
+"Cat","Died","In Foster",220
+"Cat","Euthanasia","At Vet",99
+"Cat","Euthanasia","Rabies Risk",84
+"Cat","Euthanasia","Medical",73
+"Cat","Died","At Vet",53
+"Cat","Died","Enroute",31
+"Cat","Died",NULL,22
+"Cat","Euthanasia",NULL,16
+"Cat","Died","In Surgery",12
+"Cat","Euthanasia","Aggressive",4
+"Cat","Euthanasia","Underage",1
+"Dog","Euthanasia","Suffering",844
+"Dog","Euthanasia","Aggressive",534
+"Dog","Euthanasia","Behavior",159
+"Dog","Died","In Kennel",157
+"Dog","Euthanasia","Rabies Risk",94
+"Dog","Euthanasia","Medical",70
+"Dog","Euthanasia","At Vet",57
+"Dog","Died","In Foster",41
+"Dog","Died","At Vet",29
+"Dog","Euthanasia","Court/Investigation",29
+"Dog","Died",NULL,11
+"Dog","Euthanasia",NULL,10
+"Dog","Died","Enroute",10
+"Dog","Died","In Surgery",9
+"Livestock","Died","At Vet",1
+"Livestock","Euthanasia","Suffering",1
+"Other","Euthanasia","Rabies Risk",3504
+"Other","Euthanasia","Suffering",625
+"Other","Euthanasia",NULL,199
+"Other","Euthanasia","Medical",149
+"Other","Died",NULL,71
+"Other","Died","In Kennel",63
+"Other","Died","Enroute",41
+"Other","Euthanasia","Underage",34
+"Other","Euthanasia","At Vet",10
+"Other","Died","In Foster",9
+"Other","Died","At Vet",5
+"Other","Euthanasia","Aggressive",1
+"Other","Died","In Surgery",1
