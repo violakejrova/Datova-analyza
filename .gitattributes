@@ -2,3 +2,4 @@
 *.txt linguist-documentation
 *.csv linguist-documentation
 *.pdf linguist-documentation
+sql/*.sql linguist-language=SQL
