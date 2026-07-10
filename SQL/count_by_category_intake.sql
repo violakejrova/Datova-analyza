@@ -57,8 +57,8 @@ GROUP BY TRIM(REPLACE(breed, ' Mix', ''))
 ORDER BY pocet DESC;
 
 -- v jakém stavu byla 'hospodářská' zvířata
-SELECT intake_condition, breed
+SELECT intake_condition, TRIM(REPLACE(breed, ' Mix', '')) AS druh, count(breed)
 FROM intakes
 WHERE animal_type = 'Livestock'
-GROUP BY breed, intake_condition
-ORDER BY intake_condition;
+GROUP BY TRIM(REPLACE(breed, ' Mix', '')), intake_condition
+ORDER BY COUNT(breed) DESC;
