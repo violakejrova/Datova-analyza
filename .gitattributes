@@ -1,2 +1,4 @@
-README.md linguist-documentation
-original_dataset/* linguist-documentation
+*.md linguist-documentation
+*.txt linguist-documentation
+*.csv linguist-documentation
+*.pdf linguist-documentation
