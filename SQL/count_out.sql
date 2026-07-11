@@ -71,7 +71,7 @@ SELECT
 	animal_type, outcome_type, outcome_subtype,
 	COUNT(*) as pocet_pripadu
 FROM outcomes
-WHERE outcome_type IN('Euthanasia', 'Died')
+WHERE (outcome_type IN('Euthanasia')) AND outcome_subtype IS NOT NULL
 GROUP BY animal_type, outcome_type, outcome_subtype
 ORDER BY animal_type, pocet_pripadu DESC;
 -- kdy nejvíc odhází
