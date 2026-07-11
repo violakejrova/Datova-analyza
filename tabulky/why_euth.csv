@@ -1,0 +1,25 @@
+"animal_type","outcome_type","outcome_subtype","pocet_pripadu"
+"Bird","Euthanasia","Suffering",101
+"Bird","Euthanasia","Medical",11
+"Bird","Euthanasia","Underage",1
+"Bird","Euthanasia","At Vet",1
+"Cat","Euthanasia","Suffering",1666
+"Cat","Euthanasia","At Vet",99
+"Cat","Euthanasia","Rabies Risk",84
+"Cat","Euthanasia","Medical",73
+"Cat","Euthanasia","Aggressive",4
+"Cat","Euthanasia","Underage",1
+"Dog","Euthanasia","Suffering",844
+"Dog","Euthanasia","Aggressive",534
+"Dog","Euthanasia","Behavior",159
+"Dog","Euthanasia","Rabies Risk",94
+"Dog","Euthanasia","Medical",70
+"Dog","Euthanasia","At Vet",57
+"Dog","Euthanasia","Court/Investigation",29
+"Livestock","Euthanasia","Suffering",1
+"Other","Euthanasia","Rabies Risk",3504
+"Other","Euthanasia","Suffering",625
+"Other","Euthanasia","Medical",149
+"Other","Euthanasia","Underage",34
+"Other","Euthanasia","At Vet",10
+"Other","Euthanasia","Aggressive",1
